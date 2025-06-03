@@ -1,3 +1,4 @@
+![RTV](https://github.com/user-attachments/assets/3b0f3a74-2c1e-4c72-be6f-064b36531a4a)
 
 <a name="readme-top"></a>
 
@@ -19,7 +20,7 @@
 
 # 📖 Raising the Village Data Pipeline to ingest data to a data warehouse Hub <a name="about-project"></a>
 
-In this Project, I have sourced files from MiniIO as a data source, perfomed ETL processes using pandas and visualization using Tableau:
+In this Project, I have sourced files from MiniIO as a data source, perfomed ETL processes using pandas and visualization using PowerBI:
 
 - Python
 
@@ -77,7 +78,7 @@ To run this project you need:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- I would like to thank Rasing the village for this challange
+- I would like to thank Raising the village for this challangE.Looking forward to working together
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
